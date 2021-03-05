@@ -16,7 +16,7 @@ echo "  ";
 for($j=1;$j<=$i;$j++){  
 echo "*  ";  
 }  
-echo "AlHasan A. AlKhatib";
 echo "<br>";  
-}  
+}
+echo "AlHasan A. AlKhatib";
 ?>  
