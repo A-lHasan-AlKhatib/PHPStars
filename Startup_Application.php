@@ -1,5 +1,6 @@
 <?php  
 echo "Hello World!";
+echo "<br>";
 for($i=0;$i<=5;$i++){  
 for($k=5;$k>=$i;$k--){  
 echo "  ";  
@@ -18,5 +19,6 @@ echo "*  ";
 }  
 echo "<br>";  
 }
+echo "<br>";
 echo "AlHasan A. AlKhatib";
 ?>  
